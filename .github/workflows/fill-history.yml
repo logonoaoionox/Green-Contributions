@@ -29,8 +29,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.email "oxxxxlin@gmail.com"
-          git config --global user.name "oxxxxlin"
+          git config --global user.email "465071053@gmail.com"
+          git config --global user.name "logonoaoionox"
 
       - name: Generate commits
         env:
